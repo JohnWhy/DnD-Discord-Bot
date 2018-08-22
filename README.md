@@ -1,4 +1,11 @@
 # DnD-Discord-Bot
+## Current Status
+* Initial character creation complete
+* Stats properly saving & updating
+* Needs discord implementation 
+
+* ETA: 8/25 for full beta release
+
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
 
