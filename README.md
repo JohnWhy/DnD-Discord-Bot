@@ -1,11 +1,8 @@
 # DnD-Discord-Bot BETA RELEASE
 ## Current Status
-* Initial character creation complete
-* Auto character creation almost complete
-* Stats properly saving & updating
-* Needs discord implementation 
-
-* ETA: 8/25 for full beta release
+* Missing !LevelUp
+* Still not entirely user-friendly
+* Some print statements are messy
 
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
@@ -14,12 +11,47 @@ Unlike my previous bot this will be closed-source.  This repo is made only for i
 
 ## Adding D&DBot
 
-TBD 
+Follow this link: https://discordapp.com/oauth2/authorize?client_id=481910793697493011&scope=bot
+You can try the bot out in this discord: 
 
 ## Usage
 
+- !createcharacter [name] -- gets you started on the character creation
+- !help -- tells you to come here
+- !set [attribute] [whatever] -- Case sensitive for now, used to change items on the character sheet
+
+ex: !set XP 500
+
+- !add [attribute] [whatever] -- Case sensitive as well
+
+ex: !add CurrentHP 5
+
+ex: !add Treasure Gold Chain
+
+ex: !add Equipment Bone Club
+
+- !rem [attribute] [whatever] -- Case sensitive
+
+ex: !rem CurrentHP 2
+
+ex: !rem Personality Bad Guy
+
+ex: !rem Treasure Gold Chain
+
+- !setk [dict] [key] [what to set it to] -- The clunkiness of this will be fixed later for easier management
+
+ex: !setk Skills AnimalHandling 6
+
+ex: !setk CharacterDescription Age 500
+
+ex: !setk Modifiers Str 5
+
+ex: !setk Stats Con 10
+
+ex: !setk SavingThrowStats Wis 500000
+
 **FOR SERVER OWNERS**
-Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.'
+Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.
 
 **FOR PLAYERS**
 You can also message the bot in private, however it will have !d4, !d6 !d8 !d10 !d12 !d20 and !d100 commands as well as !flipcoin to assist in playing the game itself.  These commands are probably best done in your public discord chat, but discuss with your DM how you want to handle it.
