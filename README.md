@@ -2,7 +2,7 @@
 ## Current Status
 * Missing !LevelUp
 * Backgrounds not implemented yet
-* Still not entirely user-friendly
+* Still not entirely user-friendly - being worked on
 * Some print statements are messy
 
 ## About
