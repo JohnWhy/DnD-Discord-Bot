@@ -5,6 +5,7 @@
 * Still not entirely user-friendly - being worked on
 * Some print statements are messy
 * !listcharacters or have !changechar with no input show all possible selections (not implemented)
+* Not all inputs give feedback
 
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
