@@ -46,7 +46,7 @@ ex: !rem Personality Bad Guy
 
 ex: !rem Treasure Gold Chain
 
-- !setk [dict] [key] [what to set it to] -- The clunkiness of this will be fixed later for easier management
+- !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
 
 ex: !setk Skills AnimalHandling 6
 
