@@ -1,6 +1,7 @@
 # DnD-Discord-Bot BETA RELEASE
 ## Current Status
 * Missing !LevelUp
+* Backgrounds not implemented yet
 * Still not entirely user-friendly
 * Some print statements are messy
 
