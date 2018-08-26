@@ -1,9 +1,10 @@
 # DnD-Discord-Bot BETA RELEASE
-## Current Status
+## Currently being worked on
 * Missing !LevelUp
 * Backgrounds not implemented yet
 * Still not entirely user-friendly - being worked on
 * Some print statements are messy
+* !listcharacters or have !changechar with no input show all possible selections (not implemented)
 
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
@@ -17,6 +18,8 @@ You can try the bot out in this discord:
 
 ## Usage
 - !createcharacter [name] -- gets you started on the character creation
+- !deletecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
+- !changechar [name] -- changes you to a different character
 - !help -- tells you to come here
 - !d20 -- rolls d20
 - !d12 -- rolls d12
