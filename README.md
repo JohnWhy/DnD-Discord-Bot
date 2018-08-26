@@ -25,10 +25,33 @@ You can try the bot out in this discord:
 - !d6 -- rolls d6
 - !d4 -- rolls d4
 - !coinflip - flips a coin
-- !stat [stat] -- use !stat to sell all of your sheet, !stat character, !stat spell, !stat skills, !stat equipment to see specific pages
+- !stats [stat] -- use !stat to sell all of your sheet, !stat ch[aracter], !stat sp[ell], !stat sk[ills], !stat eq[uipment] to see specific pages **NOTE:** b[lah] 'lah' is optional in command, meaning !stat ch shows the same as !stat character.
+
+**BELOW COMMANDS ARE CASE SENSITIVE FOR CHARACTER SHEET MODIFYING** 
+
+- !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
+
+**NOTE:** This is the ONLY command to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
+
+ex: !setk Coins Electrum 500
+
+ex: !setk Skills AnimalHandling 6
+
+ex: !setk CharacterDescription Age 500
+
+ex: !setk Modifiers Str 5
+
+ex: !setk Stats Con 10
+
+ex: !setk SavingThrowStats Wis 500000 -- This is the Saving Throws Modifiers mini-page.
+
 - !set [attribute] [whatever] -- Case sensitive for now, used to change items on the character sheet
 
+**NOTE:** This only works with items on CHARACTER SHEET and SPELLS & CANTRIPS which can be viewed using !stat ch or !stat sp
+
 ex: !set XP 500
+
+ex: !set Alignment Neutral Evil
 
 - !add [attribute] [whatever] -- Case sensitive as well
 
@@ -45,18 +68,6 @@ ex: !rem CurrentHP 2
 ex: !rem Personality Bad Guy
 
 ex: !rem Treasure Gold Chain
-
-- !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
-
-ex: !setk Skills AnimalHandling 6
-
-ex: !setk CharacterDescription Age 500
-
-ex: !setk Modifiers Str 5
-
-ex: !setk Stats Con 10
-
-ex: !setk SavingThrowStats Wis 500000
 
 - !appearance [Age] [Height] [Weight] [Eyes] [Skin] [Hair]
 
