@@ -1,7 +1,6 @@
 # DnD-Discord-Bot BETA RELEASE
 ## Currently being worked on
 * Missing !LevelUp
-* Backgrounds not implemented yet
 * Still not entirely user-friendly - being worked on
 * Some print statements are messy
 * !listcharacters or have !changechar with no input show all possible selections (not implemented)
