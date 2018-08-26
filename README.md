@@ -16,9 +16,16 @@ Follow this link: https://discordapp.com/oauth2/authorize?client_id=481910793697
 You can try the bot out in this discord: 
 
 ## Usage
-
 - !createcharacter [name] -- gets you started on the character creation
 - !help -- tells you to come here
+- !d20 -- rolls d20
+- !d12 -- rolls d12
+- !d10 -- rolls d10
+- !d8 -- rolls d8
+- !d6 -- rolls d6
+- !d4 -- rolls d4
+- !coinflip - flips a coin
+- !stat [stat] -- use !stat to sell all of your sheet, !stat character, !stat spell, !stat skills, !stat equipment to see specific pages
 - !set [attribute] [whatever] -- Case sensitive for now, used to change items on the character sheet
 
 ex: !set XP 500
@@ -51,11 +58,15 @@ ex: !setk Stats Con 10
 
 ex: !setk SavingThrowStats Wis 500000
 
+- !appearance [Age] [Height] [Weight] [Eyes] [Skin] [Hair]
+
+ex: !appearance 20 6'0 180 Blue Tan Brown
+
 **FOR SERVER OWNERS**
 Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.
 
 **FOR PLAYERS**
-You can also message the bot in private, however it will have !d4, !d6 !d8 !d10 !d12 !d20 and !d100 commands as well as !flipcoin to assist in playing the game itself.  These commands are probably best done in your public discord chat, but discuss with your DM how you want to handle it.
+You can also message the bot in private, however it will have !d4, !d6 !d8 !d10 !d12 !d20 and !d100 commands as well as !coinflip to assist in playing the game itself.  These commands are probably best done in your public discord chat, but discuss with your DM how you want to handle it.
 
 * To create a character, use !createcharacter [Name]
 
