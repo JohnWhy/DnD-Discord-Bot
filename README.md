@@ -110,4 +110,4 @@ Due to character informaton being stored on my own server, **You are limited to 
 * DM Tools (quick monster creation)
 * Level up
 
-* I'm currently swamped at work, so these benefits are going to take time to finish, currently more character slots is the only one you can get, but I'm not offering it until I feel the quality of the bot warrants people donating.
+**NOTE:** I'm currently swamped at work, so these benefits are going to take time to finish, currently more character slots is the only one you can get, but I'm not offering it until I feel the quality of the bot warrants people donating.
