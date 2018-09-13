@@ -2,9 +2,6 @@
 ## Currently being worked on
 * Missing !LevelUp
 * Still not entirely user-friendly - being worked on
-* Some print statements are messy
-* !listcharacters or have !changechar with no input show all possible selections (not implemented)
-* Not all inputs give feedback
 
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
@@ -35,15 +32,27 @@ You can try the bot out in this discord: https://discord.gg/XhtCeH9
 
 - !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
 
-**NOTE:** This is the ONLY command to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
+- !kadd [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
+
+- !ksub [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
+
+**NOTE:** These are the ONLY 3 commands to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
 
 ex: !setk Coins Electrum 500
 
+ex: !kadd Coins Gold 5
+
 ex: !setk Skills AnimalHandling 6
+
+ex: !kadd Skills SleightOfHand 1
 
 ex: !setk CharacterDescription Age 500
 
+ex: !ksub CharacterDescription Age 1
+
 ex: !setk Modifiers Str 5
+
+ex: !ksub Modifiers Str 1
 
 ex: !setk Stats Con 10
 
