@@ -106,7 +106,7 @@ Due to character informaton being stored on my own server, **You are limited to 
 
 ## Donator Benefits TBD
 * Unlimited character slots
-* Access to download a physical copy of your character sheet in standard D&D 5E format, filled with your most up-to-date stats.
+* Access to download a pdf copy of your character sheet in standard D&D 5E format, filled with your most up-to-date stats.
 * DM Tools (quick monster creation)
 * Level up
 
