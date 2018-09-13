@@ -13,7 +13,7 @@ Unlike my previous bot this will be closed-source.  This repo is made only for i
 
 Follow this link: https://discordapp.com/oauth2/authorize?client_id=481910793697493011&scope=bot
 
-You can try the bot out in this discord: https://discord.gg/XhtCeH9
+You can try the bot / get support for it in this discord: https://discord.gg/XhtCeH9
 
 ## Usage
 - !createcharacter [name] -- gets you started on the character creation
