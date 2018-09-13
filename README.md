@@ -103,8 +103,10 @@ Due to character informaton being stored on my own server, **You are limited to 
 
 
 
-## Donator Benefits NOT AVAILABLE YET
-
-* More character slots
+## Donator Benefits TBD
+* Unlimited character slots
 * Access to download a physical copy of your character sheet in standard D&D 5E format, filled with your most up-to-date stats.
-* More to come...
+* DM Tools (quick monster creation)
+* Level up
+
+* I'm currently swamped at work, so these benefits are going to take time to finish, currently more character slots is the only one you can get, but I'm not offering it until I feel the quality of the bot warrants people donating.
