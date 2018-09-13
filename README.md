@@ -17,7 +17,7 @@ You can try the bot out in this discord: https://discord.gg/XhtCeH9
 ## Usage
 - !createcharacter [name] -- gets you started on the character creation
 - !deletecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
-- !changechar [name] -- changes you to a different character
+- !changechar [name] -- changes you to a different character, leave input blank if you want a list of your characters
 - !help -- tells you to come here
 - !d20 -- rolls d20
 - !d12 -- rolls d12
