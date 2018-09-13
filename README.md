@@ -1,9 +1,4 @@
 # DnD-Discord-Bot BETA RELEASE
-## Currently being worked on
-* Missing !LevelUp
-* Still not entirely user-friendly - being worked on
-* A better bot usage guide with pictures
-
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
 
@@ -111,3 +106,8 @@ Due to character informaton being stored on my own server, **You are limited to 
 * Level up
 
 **NOTE:** I'm currently swamped at work, so these benefits are going to take time to finish, currently more character slots is the only one you can get, but I'm not offering it until I feel the quality of the bot warrants people donating.
+
+## Currently being worked on
+* Missing !LevelUp
+* Still not entirely user-friendly - being worked on
+* A better bot usage guide with pictures
