@@ -16,9 +16,13 @@ You can try the bot / get support for it in this discord: https://discord.gg/Xht
 - !changechar [name] -- changes you to a different character, leave input blank if you want a list of your characters
 - !help -- tells you to come here
 - !r -- explains usage of the rolling command
+
 ex: !r2d20 - rolls 2 d20s
+
 ex: !r5d10 + 1 - rolls 5 d10s then adds 1 to each roll (spacing does not matter)
+
 ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matter)
+
 - !coinflip - flips a coin
 - !stats [stat] -- use !stat to sell all of your sheet, !stat ch[aracter], !stat sp[ell], !stat sk[ills], !stat eq[uipment] to see specific pages **NOTE:** b[lah] 'lah' is optional in command, meaning !stat ch shows the same as !stat character.
 
