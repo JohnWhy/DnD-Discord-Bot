@@ -15,6 +15,8 @@ You can try the bot / get support for it in this discord: https://discord.gg/Xht
 - !deletecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
 - !changechar [name] -- changes you to a different character, leave input blank if you want a list of your characters
 - !help -- tells you to come here
+- !bugreport [bug] -- allows users to report a bug to me
+- !featurerequest [feature] -- allows users to request a feature from me
 - !r -- explains usage of the rolling command
 
 ex: !r2d20 - rolls 2 d20s
