@@ -32,7 +32,7 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 - !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
 
-- !kadd [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
+- !addk [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
 
 - !remk [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
 
@@ -40,11 +40,11 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 ex: !setk Coins Electrum 500
 
-ex: !kadd Coins Gold 5
+ex: !addk Coins Gold 5
 
 ex: !setk Skills AnimalHandling 6
 
-ex: !kadd Skills SleightOfHand 1
+ex: !addk Skills SleightOfHand 1
 
 ex: !setk CharacterDescription Age 500
 
