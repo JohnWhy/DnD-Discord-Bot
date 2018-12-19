@@ -9,6 +9,7 @@
 * DM Tool - Add characters to party for DM to view (owner of character must accept)
 * DM Tool - Modify characters for party members
 * DM Tool - DM Notepad (with note key:values, aka "!addnote KillJeff Have jeff's character fall into pit" can be seen with !viewnote KillJeff and !viewnotes sees all possible note selections
+* DM Tool - Custom database on per-server basis for item stats
 
 # Quality of Life updates
 * More user friendly, formatted commands / outputs
