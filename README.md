@@ -19,6 +19,7 @@ You can try the bot / get support for it in this discord: https://discord.gg/Xht
 - !featurerequest [feature] -- allows users to request a feature from me
 - !r -- explains usage of the rolling command
 - !changeprefix [newprefix] -- allows Administrators on servers to change the bot's prefix to whatever they want, (@,#,$,%,etc)
+- !changelog -- shows the most recent changes
 
 ex: !r2d20 - rolls 2 d20s
 
