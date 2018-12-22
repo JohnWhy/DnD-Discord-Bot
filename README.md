@@ -32,27 +32,27 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 - !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
 
-- !addk [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
+- !kadd [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
 
-- !remk [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
+- !ksub [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
 
 **NOTE:** These are the ONLY 3 commands to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
 
 ex: !setk Coins Electrum 500
 
-ex: !addk Coins Gold 5
+ex: !kadd Coins Gold 5
 
 ex: !setk Skills AnimalHandling 6
 
-ex: !addk Skills SleightOfHand 1
+ex: !kadd Skills SleightOfHand 1
 
 ex: !setk CharacterDescription Age 500
 
-ex: !remk CharacterDescription Age 1
+ex: !ksub CharacterDescription Age 1
 
 ex: !setk Modifiers Str 5
 
-ex: !remk Modifiers Str 1
+ex: !ksub Modifiers Str 1
 
 ex: !setk Stats Con 10
 
