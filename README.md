@@ -12,12 +12,13 @@ You can try the bot / get support for it in this discord: https://discord.gg/Xht
 
 ## Usage
 - !createcharacter [name] -- gets you started on the character creation
-- !deletecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
+- !erasecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
 - !changechar [name] -- changes you to a different character, leave input blank if you want a list of your characters
 - !help -- tells you to come here
 - !bugreport [bug] -- allows users to report a bug to me
 - !featurerequest [feature] -- allows users to request a feature from me
 - !r -- explains usage of the rolling command
+- !changeprefix [newprefix] -- allows Administrators on servers to change the bot's prefix to whatever they want, (@,#,$,%,etc)
 
 ex: !r2d20 - rolls 2 d20s
 
@@ -34,7 +35,7 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 - !kadd [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
 
-- !ksub [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
+- !kdel [dict] [item] [what you're subtracting from it] -- clunkiness will be fixed later
 
 **NOTE:** These are the ONLY 3 commands to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
 
@@ -48,11 +49,11 @@ ex: !kadd Skills SleightOfHand 1
 
 ex: !setk CharacterDescription Age 500
 
-ex: !ksub CharacterDescription Age 1
+ex: !kdel CharacterDescription Age 1
 
 ex: !setk Modifiers Str 5
 
-ex: !ksub Modifiers Str 1
+ex: !kdel Modifiers Str 1
 
 ex: !setk Stats Con 10
 
@@ -74,13 +75,13 @@ ex: !add Treasure Gold Chain
 
 ex: !add Equipment Bone Club
 
-- !rem [attribute] [whatever] -- Case sensitive
+- !del [attribute] [whatever] -- Case sensitive
 
-ex: !rem CurrentHP 2
+ex: !del CurrentHP 2
 
-ex: !rem Personality Bad Guy
+ex: !del Personality Bad Guy
 
-ex: !rem Treasure Gold Chain
+ex: !del Treasure Gold Chain
 
 - !appearance [Age] [Height] [Weight] [Eyes] [Skin] [Hair]
 
