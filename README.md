@@ -31,7 +31,7 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 **BELOW COMMANDS ARE CASE SENSITIVE FOR CHARACTER SHEET MODIFYING** 
 
-- !setk [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
+- !kset [dict] [item] [what to set it to] -- The clunkiness of this will be fixed later for easier management
 
 - !kadd [dict] [item] [what you're adding to it] -- clunkiness will be fixed later
 
@@ -39,25 +39,25 @@ ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matte
 
 **NOTE:** These are the ONLY 3 commands to modify Skills, CharacterDescription, Modifiers, Stats, Coins and SavingThrowStats currently.
 
-ex: !setk Coins Electrum 500
+ex: !kset Coins Electrum 500
 
 ex: !kadd Coins Gold 5
 
-ex: !setk Skills AnimalHandling 6
+ex: !kset Skills AnimalHandling 6
 
 ex: !kadd Skills SleightOfHand 1
 
-ex: !setk CharacterDescription Age 500
+ex: !kset CharacterDescription Age 500
 
 ex: !kdel CharacterDescription Age 1
 
-ex: !setk Modifiers Str 5
+ex: !kset Modifiers Str 5
 
 ex: !kdel Modifiers Str 1
 
-ex: !setk Stats Con 10
+ex: !kset Stats Con 10
 
-ex: !setk SavingThrowStats Wis 500000 -- This is the Saving Throws Modifiers mini-page.
+ex: !kset SavingThrowStats Wis 500000 -- This is the Saving Throws Modifiers mini-page.
 
 - !set [attribute] [whatever] -- Case sensitive for now, used to change items on the character sheet
 
