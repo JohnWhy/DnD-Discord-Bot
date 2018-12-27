@@ -3,6 +3,9 @@
 ## new command:
 - !prefixreset - admin only, resets prefix to default "!" (hardcoded so that prefix changes won't effect it, it will always be exactly "!prefixreset")
 
+## optimizations:
+- fixed a bug where Created Users wouldn't update automatically
+
 # v1.1
 
 ## new commands:
