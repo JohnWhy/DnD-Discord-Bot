@@ -1,3 +1,18 @@
+# v1.1.2
+## NOTE:
+- command prefixes have been wiped due to a bug during a backup, you'll need to reset your prefix with !changeprefix
+- this update may have some oddities, bugs, or performance issues.  If you experience any, please report them in the issues section, or with !bugreport
+
+## optimizations:
+- roll command will now print multiple rolls all at once, and give a sum of all those rolls, instead of printing one at a time.
+- transitioning from discord.py 0.16.14 to 1.0.0a
+
+## new commands:
+- info - gives information about the bot.
+
+
+
+
 # v1.1.1
 
 ## new command:
