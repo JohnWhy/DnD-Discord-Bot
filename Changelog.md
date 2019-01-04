@@ -1,3 +1,37 @@
+# 1.2.0
+## new commands:
+- listchar[arcters] - gives a list of all characters
+- pdfgen - gives a downloadable pdf, currently in it's early stages, 
+NOTE: Make sure to open the pdf in Chrome/Mozilla/Edge, else strangeness can occur.   This feature will be available to all for a limited time, then will become a donator-only feature.
+- checkdonator - gives True or False, True if user is a donator, False if they are not, no parameters
+
+## optimizations:
+- add, set, del now all have proper checking and feedback when command is given.
+
+## changes:
+- info - command gives a bit more info / formatting changes
+- removed [' and '] from lists when presented to user
+- set, add, and del now also double as kset, kadd, and kdel (kset, kadd, and kdel have been removed)
+- CharacterDescription, Coins, Skills, Modifiers, Stats, SavingThrowStats is no longer required as a key when using set, add or del
+
+previous: !kset Coins Platinum 500
+current: !set Platinum 500
+
+previous: !kadd Modifiers Str 5
+current: !add strmod 5
+
+previous: !kdel SavingThrowStats Dex 2
+current: !del DexSt 2
+
+previous: !kset Stats Str 5
+current: !set Str 5
+
+Reminder: these are all case-insensitive, meaning you can type DeXsT or Dexst or dexst, it's all the same to the bot.
+
+## bug fixes:
+- fixed typo in Vizier which made Religioon a proficiency
+- bug that made it so the bot couldn't be PM'd
+
 # v1.1.2
 ## NOTE:
 - command prefixes have been wiped due to a bug during a backup, you'll need to reset your prefix with !changeprefix
