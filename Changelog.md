@@ -1,4 +1,4 @@
-# 1.2.0
+# v1.2.0
 ## new commands:
 - listchar[arcters] - gives a list of all characters
 - pdfgen - gives a downloadable pdf, currently in it's early stages, 
