@@ -5,10 +5,8 @@
 + r[oll] command now accepts kh & kl per request here: https://github.com/Sp4zzy/DnD-Discord-Bot/issues/3
      * ex: !r2d20kh1 will roll 2 d20, and report the highest roll.
      * ex: !r5d20 kl 2 will roll 5 d20s and report the lowest 2.
-    
 + r[oll] command now also accepts +/- of stats / skills.
      * ex: !r1d20+AnimalHandling will roll a d20 and add your AnimalHandling
-     
      * ex: !r1d 20 + Str will roll a d20 and add strength modifier
 + raised r[oll] limit from 10 to 25.
 ## bug fixes:
