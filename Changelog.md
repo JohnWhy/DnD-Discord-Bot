@@ -1,3 +1,25 @@
+# v1.2.1.0
+## changes:
++ modified r[oll] command behavior, now the + modifier is added after all rolls are completed, instead of added to each roll.
+     *ex: !r2d6 + 10 with 2 rolls of 3 and 4, will become
+     sum 17, instead of 13+14=27
++ r[oll] command now accepts kh & kl per request here: https://github.com/Sp4zzy/DnD-Discord-Bot/issues/3
+     *ex: !r2d20kh1 will roll 2 d20, and 
+     report the highest roll.
+     *ex: !r5d20kl2 will roll 5 d20s and 
+     report the lowest 2.
++ r[oll] command now also accepts +/- of stats / skills.
+     *ex: !r1d20+AnimalHandling will roll 
+     a d20 and add your AnimalHandling
+     *ex: !r1d20+Str will roll a d20 and 
+     add strength modifier
+
+## bug fixes:
++ fixed issue on character creation where old kadd command was told to be used.
++ fixed issues on character creation that allowed improper number of prof to be chose
++ fixed issue with placement of adding bonus lang/prof/mods/feats
+
+
 # v1.2.0
 ## new commands:
 - listchar[arcters] - gives a list of all characters
