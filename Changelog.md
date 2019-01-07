@@ -1,5 +1,6 @@
 # v1.2.1.0
 ## changes:
++ added roll guide to !r - https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/Rolling%20Guide.md
 + modified r[oll] command behavior, now the + modifier is added after all rolls are completed, instead of added to each roll.
      * ex: !r2d6 + 10 with 2 rolls of 3 and 4, will become sum 17, instead of 13+14=27
 + r[oll] command now accepts kh & kl per request here: https://github.com/Sp4zzy/DnD-Discord-Bot/issues/3
