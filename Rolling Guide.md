@@ -2,10 +2,10 @@
 ## !r - is a pretty complex command, with a lot of different features.  This guide will help to explain them.
 
 + Let's start basic.
- * !r1d20 - This will roll a 20 sided dice.
- * !r2d20 - This will roll 2 20 sided dice.
- * !r1d6 - This will roll a 6 sided dice.
- * !r5d1000 - This will roll 5 1000 sided dice.  You can roll up to 25 dice, and those dice can have as many sides as you want.
+   * !r1d20 - This will roll a 20 sided dice.
+   * !r2d20 - This will roll 2 20 sided dice.
+   * !r1d6 - This will roll a 6 sided dice.
+   * !r5d1000 - This will roll 5 1000 sided dice.  You can roll up to 25 dice, and those dice can have as many sides as you want.
 
 + Let's add in some modifiers
  * !r1d20+2 - This will roll a 20 sided dice and add 2 to it.
