@@ -7,13 +7,13 @@
 
      * ex: !r2d20kh1 will roll 2 d20, and report the highest roll.
      
-     * ex: !r5d20kl2 will roll 5 d20s and report the lowest 2.
+     * ex: !r5d20 kl 2 will roll 5 d20s and report the lowest 2.
      
 + r[oll] command now also accepts +/- of stats / skills.
 
      * ex: !r1d20+AnimalHandling will roll a d20 and add your AnimalHandling
      
-     * ex: !r1d20+Str will roll a d20 and add strength modifier
+     * ex: !r1d 20 + Str will roll a d20 and add strength modifier
 
 ## bug fixes:
 + fixed issue on character creation where old kadd command was told to be used.
