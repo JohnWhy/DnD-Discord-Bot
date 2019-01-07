@@ -1,4 +1,4 @@
-# v1.2.1.0
+# v1.2.1.1
 ## changes:
 + added roll guide to !r - https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/Rolling%20Guide.md
 + modified r[oll] command behavior, now the + modifier is added after all rolls are completed, instead of added to each roll.
