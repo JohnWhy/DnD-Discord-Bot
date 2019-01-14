@@ -1,6 +1,5 @@
 Guides for D&D Bot
-# Basic Readme / Command Information
-https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/README.md
+# [Basic Readme / Command Information](https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/README.md)
 
 # Bot Slowdown Information
 https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/TheBotIsSlow!.md
