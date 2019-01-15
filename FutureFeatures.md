@@ -13,7 +13,7 @@
 * DM Tool - Active Campaigns, pulling from different databases for each
 
 # Quality of Life updates
-* More user friendly, formatted commands / outputs
+* ~~More user friendly, formatted commands / outputs~~
 * A better bot usage guide with pictures
-* Error checking for some commands isn't that great
+* ~~Error checking for some commands isn't that great~~
 * Reaction buttons to scroll through inventory / stat sheets
