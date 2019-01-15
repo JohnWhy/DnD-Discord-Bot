@@ -1,3 +1,14 @@
+# v1.2.2
+optimizations:
++ bot responses to improper commands / command suggestions will now show that server's specific prefix instead of the default "!" prefix.
+
+changes:
++ added "Loading..." presence when bot is restarting (can't test since it loads too fast)
++ additional information added to !info (including guides)
++ added Cantrips/Spells to pdf generation
++ pdfgen is now a donator-only command
+
+
 # v1.2.1.1
 ## changes:
 + added roll guide to !r - https://github.com/Sp4zzy/DnD-Discord-Bot/blob/master/Rolling%20Guide.md
