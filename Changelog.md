@@ -1,3 +1,7 @@
+# v1.2.3
+bug fixes:
+- fixed bug that caused featurerequests & bug reports to be sent to the void
+
 # v1.2.2
 optimizations:
 + bot responses to improper commands / command suggestions will now show that server's specific prefix instead of the default "!" prefix.
