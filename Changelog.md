@@ -1,3 +1,8 @@
+# v1.2.4
+optimizations:
+- added additional error handling
+- optimized !stats command to display much quicker.
+
 # v1.2.3
 bug fixes:
 - fixed bug that caused featurerequests & bug reports to be sent to the void
