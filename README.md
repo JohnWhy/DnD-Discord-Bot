@@ -1,4 +1,4 @@
-# DnD-Discord-Bot 1.2.2
+# DnD-Discord-Bot 1.2.4
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
 
