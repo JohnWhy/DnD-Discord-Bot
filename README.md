@@ -6,6 +6,12 @@ Unlike my previous bot this will be closed-source.  This repo is made only for i
 
 If you would like to try the beta-version of the bot, join the support discord below and head over to #dnd-bot-dev-public-testing to see the latest commands being worked on.  This version may require you to remake your character sheets, as it's a separate database/bot altogether.  Any help with testing new features is greatly appreciated and makes launches much smoother.
 
+## Common Issues
+
+- Bot is sending blank messages! - https://github.com/JohnWhy/DnD-Discord-Bot/issues/5
+
+- The bot is being slow! - https://github.com/JohnWhy/DnD-Discord-Bot/issues/2
+
 ## Adding D&DBot
 
 Follow this link: https://discordapp.com/oauth2/authorize?client_id=481910793697493011&scope=bot&permissions=379968
