@@ -1,6 +1,7 @@
 # v1.2.5/6
 bug fixes:
 - fixed bug with subtraction not working in !r command.
+- removed custom classes until a proper implementation is done
 - other stuff i can't remember now
 
 # v1.2.4
