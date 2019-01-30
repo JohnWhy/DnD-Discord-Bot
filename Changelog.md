@@ -1,3 +1,8 @@
+# v1.2.5/6
+bug fixes:
+- fixed bug with subtraction not working in !r command.
+- other stuff i can't remember now
+
 # v1.2.4
 optimizations:
 - added additional error handling
