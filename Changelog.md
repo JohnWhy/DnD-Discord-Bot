@@ -2,7 +2,7 @@
 bug fixes:
 - fixed bug with subtraction not working in !r command.
 - removed custom classes until a proper implementation is done
-- - if you want to do a custom class, select one similar to the class you want to build, then modify the name in the character sheet after stat generation is complete.  Currently Custom classes aren't generating any stats properly.
+   - if you want to do a custom class, select one similar to the class you want to build, then modify the name in the character sheet after stat generation is complete.  Currently Custom classes aren't generating any stats properly.
 - other stuff i can't remember now
 
 # v1.2.4
