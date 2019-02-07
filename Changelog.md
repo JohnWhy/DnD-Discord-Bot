@@ -1,3 +1,9 @@
+# 1.2.7.2
+optimizations
+- added a bot controller to launch bot with optimal settings and manage sharding
+    - controller does what AutoShardedClient wishes it did optimally, AutoShardedClient didn't play nice enough with discord API during peak times, so this new solution means increased uptime, better response time, and more control for me over how many shards are open / need to be open.
+
+
 # v1.2.5/6
 bug fixes:
 - fixed bug with subtraction not working in !r command.
