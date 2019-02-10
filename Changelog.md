@@ -1,3 +1,8 @@
+# 1.2.7.3
+more optimizations
+- acceptable prefixes are here: 
+    ```!@#$%^&*~)(-=_+][;':,.?```
+- you can use any combination of these, so `#$` is a valid prefix, as is just `?`
 # 1.2.7.2
 optimizations
 - added a bot controller to launch bot with optimal settings and manage sharding
