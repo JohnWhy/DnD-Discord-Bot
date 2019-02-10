@@ -1,8 +1,12 @@
 # 1.2.7.3
 more optimizations
-- acceptable prefixes are here: 
+
+bug fixes:
+- fixed bug that caused bot to be impossible to start related to !changeprefix being abused:
+    - acceptable prefixes are here: 
     ```!@#$%^&*~)(-=_+][;':,.?```
-- you can use any combination of these, so `#$` is a valid prefix, as is just `?`
+    - you can use any combination of these, so `#$` is a valid prefix, as is just `?`
+    
 # 1.2.7.2
 optimizations
 - added a bot controller to launch bot with optimal settings and manage sharding
