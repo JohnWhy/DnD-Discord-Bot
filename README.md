@@ -12,6 +12,8 @@ If you would like to try the beta-version of the bot, join the support discord b
 
 - The bot is being slow! - https://github.com/JohnWhy/DnD-Discord-Bot/issues/2
 
+- Why isn't my prefix working? - https://github.com/JohnWhy/DnD-Discord-Bot/issues/7
+
 ## Adding D&DBot
 
 Follow this link: https://discordapp.com/oauth2/authorize?client_id=481910793697493011&scope=bot&permissions=379968
