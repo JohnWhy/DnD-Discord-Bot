@@ -1,3 +1,7 @@
+# 1.2.7.4
+bug fixes:
+- fixed bug where silver, electrum, and copper couldn't be added or set (thanks ElijahD#5073 for the report)
+
 # 1.2.7.3
 more optimizations
 
