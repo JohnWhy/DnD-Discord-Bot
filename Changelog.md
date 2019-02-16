@@ -1,3 +1,15 @@
+# 1.2.8
+bug fixes:
+- changed storage of prefixes to a more permanent solution that won't break anymore.
+- fixed bug causing bot to be come unresponsive
+
+optimizations:
+- now on_command instead of on_message
+- better scalibility for future updates
+
+changes:
+- prefixes have been reset as a result of the switch to the new format, this should be the last time they're wiped.
+
 # 1.2.7.4
 bug fixes:
 - fixed bug where silver, electrum, and copper couldn't be added or set (thanks ElijahD#5073 for the report)
