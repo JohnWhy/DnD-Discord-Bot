@@ -1,6 +1,6 @@
 # D&D Bot
 
-Please note this bot is still being actively worked on with features being added, remeoved, and modified as needed.  I am on the support discord daily to help with any questions, comments, or concerns you might have while using the bot.  Just let me know when things break and they'll be fixed ASAP.
+Please note this bot is still being actively worked on with features being added, removed, and modified as needed.  I am on the support discord daily to help with any questions, comments, or concerns you might have while using the bot.  Just let me know when things break and they'll be fixed ASAP.
 
 ## About
 A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
