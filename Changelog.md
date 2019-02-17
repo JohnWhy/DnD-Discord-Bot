@@ -1,3 +1,8 @@
+# 1.2.8.2
+bug fixes:
+- fixed bug where !createstats wasn't working for users who tried to make a character in between sql db transfer and now.
+    - If you experience the above bug, use !activechar and select the character you attempted to make, then !createstats
+
 # 1.2.8.1 
 bug fixes:
 - bot becoming unresponsive occassionally has been fixed (stats, createcharacter, etc)
