@@ -2,6 +2,8 @@
 bug fixes:
 - fixed bug where !createstats wasn't working for users who tried to make a character in between sql db transfer and now.
     - If you experience the above bug, use !activechar and select the character you attempted to make, then !createstats
+- added disclaimer that + and - prefixes break the roll command
+- fixed issues where errors in commands weren't properly explaining what went wrong.
 
 # 1.2.8.1 
 bug fixes:
