@@ -25,15 +25,15 @@ You can try the bot / get support for it in this discord: https://discord.gg/Xht
 
 ## Usage
 - !info -- gives info on the bot
-- !createcharacter [name] -- gets you started on the character creation
-- !erasecharacter [name] -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
-- !changechar [name] -- changes you to a different character, leave input blank if you want a list of your characters
+- !createcharacter charactername -- gets you started on the character creation
+- !erasecharacter charactername -- deletes a character CANNOT BE UNDONE WITHOUT RECREATING !createcharacter
+- !changechar charactername -- changes you to a different character, leave input blank if you want a list of your characters
 - !listchar
 - !help -- tells you to come here
-- !bugreport [bug] -- allows users to report a bug to me
-- !featurerequest [feature] -- allows users to request a feature from me
+- !bugreport bug description -- allows users to report a bug to me
+- !featurerequest feature description -- allows users to request a feature from me
 - !r -- explains usage of the rolling command
-- !changeprefix [newprefix] -- allows Administrators on servers to change the bot's prefix to whatever they want, (@,#,$,%,etc)
+- !changeprefix prefix -- allows Administrators on servers to change the bot's prefix to whatever they want, (@,#,$,%,etc)
 - !changelog -- shows the most recent changes
 - !pdfgen -- generates an editable pdf of your currently selected character.
 - !donate -- gives information on how to donate
@@ -46,9 +46,9 @@ ex: !r5d10 + 1 - rolls 5 d10s then adds 1 to each roll (spacing does not matter)
 ex: !r3d4 -5 - rolls 3 d4s then subtracts 5 to each roll (spacing does not matter)
 
 - !coinflip - flips a coin
-- !stats [stat] -- use !stat to sell all of your sheet, !stat ch[aracter], !stat sp[ell], !stat sk[ills], !stat eq[uipment] to see specific pages **NOTE:** b[lah] 'lah' is optional in command, meaning !stat ch shows the same as !stat character.
+- !stats stat -- use !stat to sell all of your sheet, !stat ch[aracter], !stat sp[ell], !stat sk[ills], !stat eq[uipment] to see specific pages **NOTE:** b[lah] 'lah' is optional in command, meaning !stat ch shows the same as !stat character.
 
-- !set [attribute] [whatever] -- used to change items on the character sheet
+- !set attribute settingto -- used to change items on the character sheet
 
 Special Attributes: 
 * To modify Str/dex/cha/con Modifiers, it's strmod, dexmod, chamod, etc
@@ -59,7 +59,7 @@ ex: !set XP 500
 
 ex: !set Alignment Neutral Evil
 
-- !add [attribute] [whatever] -- Case sensitive as well
+- !add attribute settingto -- Case sensitive as well
 
 ex: !add CurrentHP 5
 
@@ -67,7 +67,7 @@ ex: !add Treasure Gold Chain
 
 ex: !add Equipment Bone Club
 
-- !del [attribute] [whatever] -- Case sensitive
+- !del attribute settingto -- Case sensitive
 
 ex: !del CurrentHP 2
 
@@ -75,7 +75,7 @@ ex: !del Personality Bad Guy
 
 ex: !del Treasure Gold Chain
 
-- !appearance [Age] [Height] [Weight] [Eyes] [Skin] [Hair]
+- !appearance age height weight eyes skin hair
 
 ex: !appearance 20 6'0 180 Blue Tan Brown
 
@@ -83,7 +83,7 @@ ex: !appearance 20 6'0 180 Blue Tan Brown
 Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.
 
 **FOR PLAYERS**
-* To create a character, use !createcharacter [Name]
+* To create a character, use !createcharacter charactername
 - You may want to do this in a PM to the bot, as the process can be a tad spammy.
 
 From there, the bot will guide you on what you need to do to get set up.  Again, this process best done in private, if multiple people are making characters in 1 chat, it might get confusing.
