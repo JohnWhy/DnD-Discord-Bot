@@ -1,3 +1,12 @@
+# 1.2.8.1 
+bug fixes:
+- bot becoming unresponsive occassionally has been fixed (stats, createcharacter, etc)
+
+optimizations:
+- bot is now storing data in SQL DB, which will respond quicker than the previous method, and not be affected by multiple shards accessing at the same time.
+- checking for number of characters has been changed (this wont affect users)
+- laid some groundwork for v1.3 5E DB
+
 # 1.2.8
 bug fixes:
 - changed storage of prefixes to a more permanent solution that won't break anymore.
