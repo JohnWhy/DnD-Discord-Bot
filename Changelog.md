@@ -6,6 +6,7 @@ bug fixes:
 - fixed issues where errors in commands weren't properly explaining what went wrong.
 - fixed stat generation on high elfs (they were getting an extra +1 to charisma that they shouldn't have)
 - fixed saving throw modifier generation (was adding an additional modifer that it shouldn't have been)
+- fixed numerous bugs related to character names, creating characters, deleting characters, changing names etc.
 
 # 1.2.8.1 
 bug fixes:
