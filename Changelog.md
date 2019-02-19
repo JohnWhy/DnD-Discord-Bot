@@ -4,6 +4,7 @@ bug fixes:
     - If you experience the above bug, use !activechar and select the character you attempted to make, then !createstats
 - added disclaimer that + and - prefixes break the roll command
 - fixed issues where errors in commands weren't properly explaining what went wrong.
+- fixed stat generation on high elfs (they were getting an extra +1 to charisma that they shouldn't have)
 
 # 1.2.8.1 
 bug fixes:
