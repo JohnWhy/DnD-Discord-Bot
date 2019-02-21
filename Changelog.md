@@ -1,4 +1,7 @@
 # 1.2.8.3
+- fixed bug where multi-word !set cmds weren't properly being set.
+
+# 1.2.8.2
 bug fixes:
 - fixed bug where !createstats wasn't working for users who tried to make a character in between sql db transfer and now.
     - If you experience the above bug, use !activechar and select the character you attempted to make, then !createstats
@@ -7,7 +10,6 @@ bug fixes:
 - fixed stat generation on high elfs (they were getting an extra +1 to charisma that they shouldn't have)
 - fixed saving throw modifier generation (was adding an additional modifer that it shouldn't have been)
 - fixed numerous bugs related to character names, creating characters, deleting characters, changing names etc.
-- fixed bug where multi-word !set cmds weren't properly being set.
 
 # 1.2.8.1 
 bug fixes:
