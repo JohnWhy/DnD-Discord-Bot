@@ -75,9 +75,9 @@ ex: !del Personality Bad Guy
 
 ex: !del Treasure Gold Chain
 
-- !appearance age height weight eyes skin hair
+- !appear age height weight eyes skin hair
 
-ex: !appearance 20 6'0 180 Blue Tan Brown
+ex: !appear 20 6'0 180 Blue Tan Brown
 
 **FOR SERVER OWNERS**
 Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.
