@@ -1,3 +1,8 @@
+# 1.2.8.4/5
+- misc bug fixes
+- fixed typos in certain classes
+- fixed character creation process not working over PMs/DMs
+
 # 1.2.8.3
 - fixed bug where multi-word !set cmds weren't properly being set.
 
