@@ -1,5 +1,6 @@
 # 1.2.8.6
 - added Deception to Warlock during Character Creation Process (thanks Thijmen#5768 for finding this error)
+- added alias for `!appear` to work as `!appearance`
 
 # 1.2.8.4/5
 - misc bug fixes
