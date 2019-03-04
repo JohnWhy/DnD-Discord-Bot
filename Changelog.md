@@ -1,3 +1,6 @@
+# 1.2.8.6
+- added Deception to Warlock during Character Creation Process (thanks Thijmen#5768 for finding this error)
+
 # 1.2.8.4/5
 - misc bug fixes
 - fixed typos in certain classes
