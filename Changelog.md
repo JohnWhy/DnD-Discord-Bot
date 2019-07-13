@@ -1,3 +1,7 @@
+# 1.2.8.7
+- fixed bug with subtracting in !r
+- !help now displays different msg
+
 # 1.2.8.6
 - added Deception to Warlock during Character Creation Process (thanks Thijmen#5768 for finding this error)
 - added alias for `!appear` to work as `!appearance`
