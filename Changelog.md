@@ -1,15 +1,15 @@
 # 1.3
 ## NEW COMMANDS:
-- !givechar @user character
+- `!givechar @user character`
     - ex: !givechar @Stoner Ronin --- This will give the discord user Stoner my character sheet for Ronin
-- !search category item
+- `!search category item`
     - ex: !search spells random
     - ex: !search help --- will give a detailed list of categories you can search
     - Major shoutout to the people maintaining https://www.dnd5eapi.co/api/ which allowed me to get this command completed
-- !get_random_monster rating_min rating_max  --- Alternatively !grm works as a shortcut
+- `!get_random_monster rating_min rating_max`  --- Alternatively !grm works as a shortcut
     - ex: !grm 0 0.25 --- Will give a random monster with a challenge rating between 0 and 0.25
     - Again, major shoutout to https://www.dnd5eapi.co/api/ which allowed this command to be completed
-- !whatsmyprefix --- HARDCODED to work with !, will give users the server prefix
+- `!whatsmyprefix` --- HARDCODED to work with !, will give users the server prefix
 
 ## NEW RACES:
 - Added numerous new races per user suggestions
