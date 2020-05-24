@@ -9,7 +9,9 @@
 - `!get_random_monster rating_min rating_max`  --- Alternatively !grm works as a shortcut
     - ex: !grm 0 0.25 --- Will give a random monster with a challenge rating between 0 and 0.25
     - Again, major shoutout to https://www.dnd5eapi.co/api/ which allowed this command to be completed
-- `!whatsmyprefix` --- HARDCODED to work with !, will give users the server prefix
+- `!whatsmyprefix` --- HARDCODED to work with `!`, will give users the server prefix
+    - Reminder that `!prefixreset` is also hardcoded and only users with `guild_permissions.administrator` can use this.
+    - If a user uses this command they will be told the current server prefix now.
 
 ## NEW RACES:
 - Added numerous new races per user suggestions
