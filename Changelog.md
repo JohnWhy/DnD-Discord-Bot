@@ -21,7 +21,8 @@
 - - This will allow custom backgrounds, classes, and races to be stored for individuals
 - - Also planned for discord guilds to be allowed to store their own custom backgrounds, classes, & races.
 
-
+## Bugfixes:
+- Fixed bug that allowed anyone to `!changeprefix` and `!prefixreset` (Surprised this wasn't reported)
 
 # 1.2.8.7
 - fixed bug with subtracting in !r
