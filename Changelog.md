@@ -1,3 +1,6 @@
+# v1.3.4
+- Fixed a bug where !search would spam chat if no index was given.
+
 # 1.3
 ## NEW COMMANDS:
 - `!givechar @user character`
