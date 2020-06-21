@@ -1,3 +1,7 @@
+# v1.3.5
+- Fixed bug on !set and !add for NumCantrips and NumSpells.
+- !set and !add should now work interchangably on integer value fields (previously !set would create a string and break !add on those fields, that no longer occurs)
+
 # v1.3.4
 - Fixed a bug where !search would spam chat if no index was given.
 
