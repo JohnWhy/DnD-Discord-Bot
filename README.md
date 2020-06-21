@@ -13,8 +13,6 @@ If you would like to try the dev-version of the bot, join the support discord be
 
 - Bot is sending blank messages! - https://github.com/JohnWhy/DnD-Discord-Bot/issues/5
 
-- The bot is being slow! - https://github.com/JohnWhy/DnD-Discord-Bot/issues/2
-
 - Why isn't my prefix working? - https://github.com/JohnWhy/DnD-Discord-Bot/issues/7
 
 ## Adding D&DBot
