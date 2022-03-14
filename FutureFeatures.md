@@ -3,7 +3,7 @@
 * Level up capabilities to make level-ups pain-free and simple
 * ~~Downloadable PDF of character sheet in same style as standard 5E sheets.~~ **Implemented!**
 * Random character generator
-* Random monster generator
+* ~~Random monster generator~~
 * Random loot generator
 ## DM Tools 
 * DM Tool - Add characters to party for DM to view (owner of character must accept)
