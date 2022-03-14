@@ -2,6 +2,10 @@
 
 Discord is rolling out slash commands and forcing all bots over a certain threshold of servers to use them.  This will take place in April.  The bot will stop responding to your normal prefixes and will ONLY respond to / commands.
 
+https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ
+
+There is nothing I can do about this, it's being forced on us all.
+
 # D&D Bot
 
 Please note this bot is still being actively worked on with features being added, removed, and modified as needed.  I am on the support discord daily to help with any questions, comments, or concerns you might have while using the bot.  Just let me know when things break and they'll be fixed ASAP.
