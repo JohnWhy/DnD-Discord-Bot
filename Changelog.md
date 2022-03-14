@@ -1,7 +1,7 @@
 # The Slash Command Update 
 - Updated to Discord Slash Command
 - Some commands may be degredated in performance, please report in bug reports.
-- Roll command massively rewritten, KH and KL is removed.
+- Roll command massively rewritten
 
 # v1.3.5
 - Fixed bug on !set and !add for NumCantrips and NumSpells.
