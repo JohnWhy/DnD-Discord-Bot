@@ -1,3 +1,8 @@
+# The Slash Command Update 
+- Updated to Discord Slash Command
+- Some commands may be degredated in performance, please report in bug reports.
+- Roll command massively rewritten, KH and KL is removed.
+
 # v1.3.5
 - Fixed bug on !set and !add for NumCantrips and NumSpells.
 - !set and !add should now work interchangably on integer value fields (previously !set would create a string and break !add on those fields, that no longer occurs)
