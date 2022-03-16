@@ -2,6 +2,8 @@
 - Updated to Discord Slash Command
 - Some commands may be degredated in performance, please report in bug reports.
 - Roll command massively rewritten
+- Updated character creation to allow full names of classes, races, skills, and backgrounds during selection (as an alternative to selecting a number)
+- Updated set/add/del to work with slash system
 
 # v1.3.5
 - Fixed bug on !set and !add for NumCantrips and NumSpells.
