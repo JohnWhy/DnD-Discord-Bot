@@ -4,7 +4,7 @@ Discord is rolling out slash commands and forcing all bots over a certain thresh
 
 https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ
 
-There is nothing I can do about this, it's being forced on us all.
+For more information on this read my gist here: https://gist.github.com/JohnWhy/21ef185bb30e8523ad34ac80066b8e0c
 
 # D&D Bot
 
