@@ -26,7 +26,7 @@ Performance, Persuasion, Religion, SleightOfHand, Stealth, Survival
 - armor_proficiencies - (list value) *The default armor proficiencies of the class*
 - tool_proficiencies - (list value) *The default tool proficiencies of the class*
 - starter_equipment - (list value) *The default equipment the class starts with*
-- spellcaster (OPTIONAL) - (string value) *The spellcaster type of the class*
+- spellcaster (OPTIONAL) - (string value) *The spellcaster type of the class (Currently this field just shows the class_name, so this value doesn't really matter for now - it may in the future)*
 - number_of_cantrips (OPTIONAL) - (integer value) *The number of cantrips the class knows at level 1*
 - number_of_spells (OPTIONAL) - (integer value) *The number of spells the class knows at level 1*
 
