@@ -3,9 +3,11 @@
 
 **string value** - Can be anything you want, but generally alphanumeric.
 -- ex: race_name:Zyborg
+
 **integer value** - Is 0-9 values (do not put alphanumeric in here or the command will fail)
 -- ex: race_size:30
 -- ex:number_of_bonus_languages:1
+
 **list value** - Can be anything you want, but this field accepts multiple inputs in a list, so **separate each item/thing with a semicolon (;) character.**
 -- ex: saving_throws:Str;Con
 -- ex: equipment:Short Bow;Short Sword;Amulet of Magic 
