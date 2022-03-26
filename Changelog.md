@@ -1,4 +1,7 @@
 # The Slash Command Update 
+- Added /customracecreation - READ THE GUIDE
+- Added /custombackgroundcreation - READ THE GUIDE
+- Added /customclasscreation - READ THE GUIDE
 - Updated to Discord Slash Command
 - Some commands may be degredated in performance, please report in bug reports.
 - Roll command massively rewritten
