@@ -21,4 +21,3 @@
 * /inventory
 * /story
 * Custom Feature Storage
-* Feature Lookup
