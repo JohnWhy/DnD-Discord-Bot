@@ -1,4 +1,4 @@
-# v1.5
+# v1.5 (LIVE)
 - Adjusted backend data storage of Backgrounds/Classes/Races/Characters for better performance
 - Migrated all character sheets to new data storage
 - Code refactoring to begin work on DM features
@@ -6,10 +6,7 @@
 - Adjusted donator schema (We're officially leaving the Early Supporter phase as I begin work on bigger features)
 
 Note from the developer:
-
-v1.5 is not released as of this writing (5/23/2023) as I'm finalizing the migration of custom class/background/race & character sheets.  Running into some nasty bugs from the old storage system but slow and steady progress.
-
-On a better note, obviously I have a long list of [Future Features](https://github.com/JohnWhy/DnD-Discord-Bot/blob/master/FutureFeatures.md) that I'd really like to get to.  This project has been on the backburner for a while, and after a forced migration due to a dying hard drive I started looking back into my plans for this project and really don't see why I can't accomplish a lot of this.  Over the last few days I've grinded out a massive storage overhaul which should make accomplishing these goals easier (especially the DM Tools one).  I'm a one man team, and never expected this to blow up as big as it has, I feel like I say that a lot.  Appreciate everyone who has donated and supported this project in various ways, I'm feeling more motivated than ever to push this bot forwaard and make it the best D&D Bot on Discord.  If anyone has feature requests or bug reports reaching out to me on the [support discord](https://discord.gg/XhtCeH9) is the best way to get my attention.  Alternatively, post in the Issues section of Github.
+Obviously I have a long list of [Future Features](https://github.com/JohnWhy/DnD-Discord-Bot/blob/master/FutureFeatures.md) that I'd really like to get to.  This project has been on the backburner for a while, and after a forced migration due to a dying hard drive I started looking back into my plans for this project and really don't see why I can't accomplish a lot of this.  Over the last few days I've grinded out a massive storage overhaul which should make accomplishing these goals easier (especially the DM Tools one).  I'm a one man team, and never expected this to blow up as big as it has, I feel like I say that a lot.  Appreciate everyone who has donated and supported this project in various ways, I'm feeling more motivated than ever to push this bot forwaard and make it the best D&D Bot on Discord.  If anyone has feature requests or bug reports reaching out to me on the [support discord](https://discord.gg/XhtCeH9) is the best way to get my attention.  Alternatively, post in the Issues section of Github.
 
 # The Slash Command Update 
 - Added /customracecreation - [READ THE GUIDE](https://github.com/JohnWhy/DnD-Discord-Bot/blob/master/Custom%20Race%20Creation.md)
