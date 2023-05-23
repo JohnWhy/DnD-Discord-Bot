@@ -21,3 +21,4 @@
 * /inventory
 * /story
 * Custom Feature Storage
+* Better /search display
