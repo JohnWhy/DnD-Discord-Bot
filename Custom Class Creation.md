@@ -31,4 +31,4 @@ Performance, Persuasion, Religion, SleightOfHand, Stealth, Survival
 - number_of_spells (OPTIONAL) - (integer value) *The number of spells the class knows at level 1*
 
 [EXAMPLE 1](https://i.imgur.com/D3ZX4wN.png)
-[EXAMPLE 2](https://i.imgur.com/Xk4s31J.png)
+[EXAMPLE 2](https://i.imgur.com/4gVmj4T.png)
