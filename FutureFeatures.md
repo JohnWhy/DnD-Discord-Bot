@@ -20,3 +20,5 @@
 * (Move Inventory/Character Story to it's own embed)
 * /inventory
 * /story
+* Custom Feature Storage
+* Feature Lookup
