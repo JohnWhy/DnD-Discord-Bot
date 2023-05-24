@@ -17,8 +17,8 @@
 * A better bot usage guide with pictures
 * ~~Error checking for some commands isn't that great~~
 * Better character sheet editing 
-* (Move Inventory/Character Story to it's own embed)
-* /inventory
-* /story
+~~* (Move Inventory/Character Story to it's own embed)~~
+~~* /inventory~~
+~~* /story
 * Custom Feature Storage
 * Better /search display
