@@ -1,3 +1,17 @@
+# v1.6 (In Progress)
+## Adjustments
+- [Added "comment" section to Dice Roll](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png) to allow people to comment on what they're rolling for.  [See image](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png)
+- Added /backstory command to display character backstory in it's own embed
+- Removed Backstory from /stats by default (however /stats ba[ckstory] will display it)
+- Changed backstory from list to str (/set command to set backstory now, unsure why it was ever a list element)
+- Added /equipment command to display character Equipment/Treasure.  /equipment equipment_only:True will display only Equipment and ignore Treasure, by default the command shows both
+- Adjusted outputs on /stats (Equipment/Treasure embeds are their own page underneath Equipment/Feats page)
+
+## Fixes
+- Fixed issue where some items didn't have damage_bonus and were failing on /search equipment [item]
+- Hid botstatus command from users
+- Added administrative commands to allow me to sync commands to specific servers/commands if for some reason they application commands aren't loading
+
 # v1.5 (LIVE)
 - Adjusted backend data storage of Backgrounds/Classes/Races/Characters for better performance
 - Migrated all character sheets to new data storage
