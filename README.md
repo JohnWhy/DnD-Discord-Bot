@@ -7,7 +7,7 @@ A Discord Bot for D&amp;D Character Creation, Maintaining, and Progression
 
 Unlike my previous bot this will be closed-source.  This repo is made only for install & usage instructions as well as bug tracking and feature requests.
 
-If you would like to try the dev-version of the bot, join the support discord below and head over to #dnd-bot-dev-public-testing to see the latest commands being worked on.  This version may require you to remake your character sheets, as it's a separate database/bot altogether.  Any help with testing new features is greatly appreciated and makes launches much smoother.
+If you would like to try the dev-version of the bot, join the support discord below and head over to #dnd-bot-dev-public-testing to see the latest commands being worked on.  Any help with testing new features is greatly appreciated and makes launches much smoother.
 
 ## Adding D&DBot
 
