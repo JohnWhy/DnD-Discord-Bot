@@ -65,11 +65,10 @@ ex: /del Treasure Gold Chain
 ex: /appear 20 6'0 180 Blue Tan Brown
 
 **FOR SERVER OWNERS**
-Upon adding the discord bot to the server, make sure it has permissions to send messages.  That is about all it will need.
+Upon adding the discord bot to the server, make sure it has permissions to send messages/links/embeds.  That is about all it will need.
 
 **FOR PLAYERS**
 * To create a character, use /createcharacter charactername
-- You may want to do this in a PM to the bot, as the process can be a tad spammy.
 
 From there, the bot will guide you on what you need to do to get set up.  Again, this process best done in private, if multiple people are making characters in 1 chat, it might get confusing.
 
