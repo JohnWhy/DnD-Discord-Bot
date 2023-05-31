@@ -1,4 +1,4 @@
-# v1.6 (In Progress)
+# v1.6 (LIVE)
 ## Adjustments
 - [Added "comment" section to Dice Roll](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png) to allow people to comment on what they're rolling for.  [See image](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png)
 - Added /backstory command to display character backstory in it's own embed
@@ -12,7 +12,7 @@
 - Hid botstatus command from users
 - Added administrative commands to allow me to sync commands to specific servers/commands if for some reason they application commands aren't loading
 
-# v1.5 (LIVE)
+# v1.5
 - Adjusted backend data storage of Backgrounds/Classes/Races/Characters for better performance
 - Migrated all character sheets to new data storage
 - Code refactoring to begin work on DM features
