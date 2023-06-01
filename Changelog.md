@@ -1,4 +1,11 @@
-# v1.6 (LIVE)
+# v1.7 (In Dev)
+## Additions
+- Added first iteration of DM Tools
+- /sharecharacter @DMUser -- Shares your active character with your dungeon master
+- /dmtool help -- Shows help information about the /dmtool command
+- /dmtool view -- Shows all characters you are currently the DM on
+
+# v1.6.1 (LIVE)
 ## Adjustments
 - [Added "comment" section to Dice Roll](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png) to allow people to comment on what they're rolling for.  [See image](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png)
 - Added /backstory command to display character backstory in it's own embed
