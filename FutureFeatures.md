@@ -6,7 +6,7 @@
 * Random loot generator
 
 ## DM Tools 
-* DM Tool - Players can give a DM access to their character sheets
+* ~~DM Tool - Players can give a DM access to their character sheets~~
 * DM Tool - DM can modify character sheets of players they're granted access to
 * DM Tool - DM Notepad (with note key:values, aka "!addnote KillJeff Have jeff's character fall into pit" can be seen with !viewnote KillJeff and !viewnotes sees all possible note selections
 * DM Tool - DM monster/item storage
