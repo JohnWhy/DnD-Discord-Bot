@@ -1,7 +1,9 @@
 # v1.7 (In Dev)
 ## Additions
 - Added first iteration of DM Tools
-- /sharecharacter @DMUser -- Shares your active character with your dungeon master
+- /sharecharacter dm_user_id -- Shares your active character with your dungeon master
+- /unsharecharacter character_name user -- Unshares your active character if character_name/user is left blank
+- - Alternatively this command can be used by DMs to remove unwanted player sheets by giving an input for character_name/user
 - /dmtool help -- Shows help information about the /dmtool command
 - /dmtool view -- Shows all characters you are currently the DM on
 
