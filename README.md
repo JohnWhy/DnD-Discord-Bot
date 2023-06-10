@@ -54,11 +54,11 @@ ex: /add Equipment Bone Club
 
 - /del attribute settingto -- Case sensitive
 
-ex: /del CurrentHP 2
+ex: /sub CurrentHP 2
 
-ex: /del Personality Bad Guy
+ex: /sub Personality Bad Guy
 
-ex: /del Treasure Gold Chain
+ex: /sub Treasure Gold Chain
 
 - /appear age height weight eyes skin hair
 
