@@ -1,4 +1,4 @@
-# v1.7 (In Dev)
+# v1.7 (LIVE)
 ## Additions
 - Added first iteration of DM Tools
 - /sharecharacter dm_user_id:@user -- Shares your active character with your dungeon master
@@ -16,7 +16,7 @@
 ## Misc
 - Testing AutoShardedBot to see if performance improves/worsens.
 
-# v1.6.1 (LIVE)
+# v1.6.1
 ## Adjustments
 - [Added "comment" section to Dice Roll](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png) to allow people to comment on what they're rolling for.  [See image](https://user-images.githubusercontent.com/8998268/240448470-4b878864-2796-4760-b24b-1a9118bb4ec6.png)
 - Added /backstory command to display character backstory in it's own embed
