@@ -9,8 +9,12 @@
 - /dmtool cmd:view arg1:character_name/user_id/index -- Index is found in /dmtool cmd:view which lists all the character sheets you can access, filling out arg1 displays a specific character sheet.
 - /dmtool cmd:note -- Shows all notes you have created (has edit/delete functionality)
 - - Use /dmtool cmd:help to see use cases for /dmtool cmd:note
+- - Added indexes to note tool to allow easier use
 ## Fixes
 - Updated /pdfgen to a more elegant solution (1 message instead of 2, fixed the .edit that was broken)
+- Updated /search to better display damage values
+## Misc
+- Testing AutoShardedBot to see if performance improves/worsens.
 
 # v1.6.1 (LIVE)
 ## Adjustments
