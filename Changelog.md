@@ -1,6 +1,6 @@
 # v1.7.2 (LIVE)
 ## Fixes
-- Updated checkRace & getRacialFeatures command to work properly with new layout (some racial features may be missing from characters made after 1.6)
+- Updated checkRace & getRacialFeatures functions to work properly with new layout (some racial features may be missing from characters made after 1.6)
 - /roll now removes non-integer values from number_of_dice and sides_of_dice, so if u typo but there's valid integers in the command it will parse properly (notice a lot of people mistyping stuff when rolling in the error logs!)
 - CheckActive will try to assign an active character if you don't have one for some reason (usually happens when the active character is deleted)
 - Removed an instance of .copy() that existed for no good reason on a variable assignment
