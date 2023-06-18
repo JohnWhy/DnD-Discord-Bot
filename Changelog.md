@@ -1,4 +1,15 @@
-# v1.7 (LIVE)
+# v1.7.2 (LIVE)
+## Fixes
+- Updated checkRace & getRacialFeatures command to work properly with new layout (some racial features may be missing from characters made after 1.6)
+- /roll now removes non-integer values from number_of_dice and sides_of_dice, so if u typo but there's valid integers in the command it will parse properly (notice a lot of people mistyping stuff when rolling in the error logs!)
+- CheckActive will try to assign an active character if you don't have one for some reason (usually happens when the active character is deleted)
+- Removed an instance of .copy() that existed for no good reason on a variable assignment
+- Updated /roll's text from "Sum of rolls" -> "Sum of roll(s)" to make it less confusing, especially when there's multiple rolls but keep_highest or keep_lowest is selected.  [Should fix issues like this where you're wondering if Str was properly calculated or if the bot is just summing both the rolls.](https://i.imgur.com/TiLT62Y.png)
+- Fixed /createprof not displaying all the messages it wants to correctly (result of / commands not being allowed to send multiple anymore)
+- Updated getRacialFeatures to properly grab the racial features
+- Fixed an issue that caused class features to not get added to character sheet (not sure how I missed this, review characters made post-1.6 to make sure the class features got added properly).
+
+# v1.7
 ## Additions
 - Added first iteration of DM Tools
 - /sharecharacter dm_user_id:@user -- Shares your active character with your dungeon master
