@@ -1,4 +1,4 @@
-#v1.7.3 (In Dev)
+# v1.7.3 (In Dev)
 ## Fixes
 - /roll keep_highest and keep_lowest now takes an integer value instead of true/false, allowing to keep multiple high rolls
 - keep_highest and keep_lowest will now display all rolls properly instead of just the kept rolls.
