@@ -1,10 +1,10 @@
-# v1.7.3 (In Dev)
+# v1.7.3 (LIVE)
 ## Fixes
 - /roll keep_highest and keep_lowest now takes an integer value instead of true/false, allowing to keep multiple high rolls
 - keep_highest and keep_lowest will now display all rolls properly instead of just the kept rolls.
 - Fixed character not updating when /sub was removed to get rid of an item in a list.
 
-# v1.7.2 (LIVE)
+# v1.7.2
 ## Fixes
 - Updated checkRace & getRacialFeatures functions to work properly with new layout (some racial features may be missing from characters made after 1.6)
 - /roll now removes non-integer values from number_of_dice and sides_of_dice, so if u typo but there's valid integers in the command it will parse properly (notice a lot of people mistyping stuff when rolling in the error logs!)
