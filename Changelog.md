@@ -1,3 +1,8 @@
+#v1.7.3 (In Dev)
+## Fixes
+- /roll keep_highest and keep_lowest now takes an integer value instead of true/false, allowing to keep multiple high rolls
+- keep_highest and keep_lowest will now display all rolls properly instead of just the kept rolls.
+
 # v1.7.2 (LIVE)
 ## Fixes
 - Updated checkRace & getRacialFeatures functions to work properly with new layout (some racial features may be missing from characters made after 1.6)
