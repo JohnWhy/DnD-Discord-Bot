@@ -2,6 +2,7 @@
 ## Fixes
 - /roll keep_highest and keep_lowest now takes an integer value instead of true/false, allowing to keep multiple high rolls
 - keep_highest and keep_lowest will now display all rolls properly instead of just the kept rolls.
+- Fixed character not updating when /sub was removed to get rid of an item in a list.
 
 # v1.7.2 (LIVE)
 ## Fixes
