@@ -1,3 +1,5 @@
+# VERSION 2.0 RELEASED MASSIVE OVERHAUL
+
 # D&D Bot
 
 Please note this bot is still being actively worked on with features being added, removed, and modified as needed.  I am on the support discord daily to help with any questions, comments, or concerns you might have while using the bot.  Just let me know when things break and they'll be fixed ASAP.
