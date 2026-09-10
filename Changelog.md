@@ -1,3 +1,11 @@
+# v2.0
+## Additions
+- Added the long awaited /levelup command which takes users step by step through leveling up their character
+
+## Adjustments
+- Adjusted the way character sheets are presented, they're not far more dynamic and adjustable
+- Adjusted the character creation workflow to be more dynamic, responsive, and give descriptions of selections.
+
 # v1.7.3 (LIVE)
 ## Fixes
 - /roll keep_highest and keep_lowest now takes an integer value instead of true/false, allowing to keep multiple high rolls
